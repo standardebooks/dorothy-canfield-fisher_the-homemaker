@@ -40,45 +40,46 @@
 		<meta property="term" refines="#subject-3">sh2008103507</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008111497</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A small-town housewife discovers a new sense of purpose after she begins to work in support of her family and injured husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Helping raise three children while her husband goes out to work for a local department store has taken its toll on Evangeline Knapp, as she can’t help feeling unhappy despite doing her best to fulfill her role as a mother and housekeeper. Meanwhile, her husband Lester Knapp shares similar thoughts towards his daily routine, working a monotonous accounting job that only serves to keep him away from his loved ones.&lt;/p&gt;
+			&lt;p&gt;An unfortunate accident leads to a meaningful change in the married couple’s lifestyle, with Evangeline becoming the one who must go out and find a way to support the family while Lester takes care of their ill son Henry, timid daughter Helen and young impulsive Stephen.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/dorothy-canfield-fisher"&gt;Dorothy Canfield Fisher&lt;/a&gt; tells a story of personal discovery, as well as the touching relationships that grow between family members in the face of adversity and unforeseen events. A tale informed by a critique of stereotypes, gender roles and how keeping up appearances for the benefit of strangers may prove harmful in the long term.&lt;/p&gt;
+			&lt;p&gt;First published in 1924, &lt;i&gt;The Homemaker&lt;/i&gt; was well received by readers and became an instant bestseller. In 1925 the novel was adapted into a silent film production of the same name.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72140</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/homemaker0000doro</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Homemaker</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-canfield-fisher_the-homemaker</meta>
 		<dc:creator id="author">Dorothy Canfield Fisher</dc:creator>
 		<meta property="file-as" refines="#author">Fisher, Dorothy Canfield</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50005248</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50005248</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John White Alexander</dc:contributor>
+		<meta property="file-as" refines="#artist">Alexander, John White</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_White_Alexander</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50033313</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">David E. Brown</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Brown, David E.</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-3">Ed Leckert</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Leckert, Ed</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
