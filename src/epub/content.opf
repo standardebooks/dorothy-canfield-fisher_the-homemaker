@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/dorothy-canfield-fisher/the-homemaker</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-03-13T16:14:10Z</dc:date>
+		<meta property="dcterms:modified">2025-03-13T16:14:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,18 +41,17 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008111497</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A small-town housewife discovers a new sense of purpose after she begins to work in support of her family and injured husband.</dc:description>
+		<dc:description id="description">A small-town housewife discovers a new sense of purpose after she begins to work to support her family and injured husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Helping raise three children while her husband goes out to work for a local department store has taken its toll on Evangeline Knapp, as she can’t help feeling unhappy despite doing her best to fulfill her role as a mother and housekeeper. Meanwhile, her husband Lester Knapp shares similar thoughts towards his daily routine, working a monotonous accounting job that only serves to keep him away from his loved ones.&lt;/p&gt;
-			&lt;p&gt;An unfortunate accident leads to a meaningful change in the married couple’s lifestyle, with Evangeline becoming the one who must go out and find a way to support the family while Lester takes care of their ill son Henry, timid daughter Helen and young impulsive Stephen.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/dorothy-canfield-fisher"&gt;Dorothy Canfield Fisher&lt;/a&gt; tells a story of personal discovery, as well as the touching relationships that grow between family members in the face of adversity and unforeseen events. A tale informed by a critique of stereotypes, gender roles and how keeping up appearances for the benefit of strangers may prove harmful in the long term.&lt;/p&gt;
-			&lt;p&gt;First published in 1924, &lt;i&gt;The Homemaker&lt;/i&gt; was well received by readers and became an instant bestseller. In 1925 the novel was adapted into a silent film production of the same name.&lt;/p&gt;
+			&lt;p&gt;Helping raise three children while her husband goes out to work for a local department store has taken its toll on Evangeline Knapp, as she can’t help feeling unhappy despite doing her best to fulfill her role as a mother and housekeeper. Meanwhile her husband Lester, working a monotonous accounting job that only serves to keep him away from his family, shares similar feelings.&lt;/p&gt;
+			&lt;p&gt;An unfortunate accident soon leads to a big change in their lifestyle, with Evangeline becoming the breadwinner while Lester takes care of their ill son Henry, their timid daughter Helen, and the young and impulsive Stephen.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Homemaker&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/dorothy-canfield-fisher"&gt;Dorothy Canfield Fisher&lt;/a&gt; tells a story of personal discovery and the touching relationships that grow between family members in the face of unforeseen adversity. The novel is a tale informed by a critique of stereotypes, gender roles, and how keeping up appearances for the benefit of strangers can prove harmful. First published in 1924, it was well-received and became an instant bestseller.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72140</dc:source>
 		<dc:source>https://archive.org/details/homemaker0000doro</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70688</meta>
+		<meta property="se:reading-ease.flesch">72.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Homemaker</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-canfield-fisher_the-homemaker</meta>
 		<dc:creator id="author">Dorothy Canfield Fisher</dc:creator>
@@ -86,6 +85,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
