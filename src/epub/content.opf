@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Homemaker</dc:title>
 		<meta property="file-as" refines="#title">Homemaker, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Home-Maker</meta>
 		<dc:subject id="subject-1">Domestic fiction</dc:subject>
 		<dc:subject id="subject-2">Sex role -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Families -- Fiction</dc:subject>
@@ -52,7 +53,6 @@
 		<dc:source>https://archive.org/details/homemaker0000doro</dc:source>
 		<meta property="se:word-count">70688</meta>
 		<meta property="se:reading-ease.flesch">72.97</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Homemaker</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-canfield-fisher_the-homemaker</meta>
 		<dc:creator id="author">Dorothy Canfield Fisher</dc:creator>
 		<meta property="file-as" refines="#author">Fisher, Dorothy Canfield</meta>
