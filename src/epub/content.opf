@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dorothy-canfield-fisher/the-homemaker</dc:identifier>
 		<dc:date>2025-03-13T16:14:10Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008111497</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A small-town housewife discovers a new sense of purpose after she begins to work to support her family and injured husband.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A small-town housewife discovers a new sense of purpose after she begins to work to support her family and injured husband.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Helping raise three children while her husband goes out to work for a local department store has taken its toll on Evangeline Knapp, as she can’t help feeling unhappy despite doing her best to fulfill her role as a mother and housekeeper. Meanwhile her husband Lester, working a monotonous accounting job that only serves to keep him away from his family, shares similar feelings.&lt;/p&gt;
 			&lt;p&gt;An unfortunate accident soon leads to a big change in their lifestyle, with Evangeline becoming the breadwinner while Lester takes care of their ill son Henry, their timid daughter Helen, and the young and impulsive Stephen.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;The Homemaker&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/dorothy-canfield-fisher"&gt;Dorothy Canfield Fisher&lt;/a&gt; tells a story of personal discovery and the touching relationships that grow between family members in the face of unforeseen adversity. The novel is a tale informed by a critique of stereotypes, gender roles, and how keeping up appearances for the benefit of strangers can prove harmful. First published in 1924, it was well-received and became an instant bestseller.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72140</dc:source>
 		<dc:source>https://archive.org/details/homemaker0000doro</dc:source>
