@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008111497</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A small-town housewife discovers a new sense of purpose after she begins to work to support her family and injured husband.</dc:abstract>
+		<meta property="schema:abstract">A small-town housewife discovers a new sense of purpose after she begins to work to support her family and injured husband.</meta>
 		<dc:description>
 			&lt;p&gt;Helping raise three children while her husband goes out to work for a local department store has taken its toll on Evangeline Knapp, as she can’t help feeling unhappy despite doing her best to fulfill her role as a mother and housekeeper. Meanwhile her husband Lester, working a monotonous accounting job that only serves to keep him away from his family, shares similar feelings.&lt;/p&gt;
 			&lt;p&gt;An unfortunate accident soon leads to a big change in their lifestyle, with Evangeline becoming the breadwinner while Lester takes care of their ill son Henry, their timid daughter Helen, and the young and impulsive Stephen.&lt;/p&gt;
